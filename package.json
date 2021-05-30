@@ -1,5 +1,5 @@
 {
-  "name": "hub",
+  "name": "electron-react-template",
   "version": "1.0.0",
   "main": "src/index.ts",
   "author": "otkrickey <rtk.otk@gmail.com>",
